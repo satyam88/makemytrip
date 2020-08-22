@@ -1,2 +1,4 @@
 nepal
 srilnaka
+europe
+paris
