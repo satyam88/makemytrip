@@ -1,2 +1,4 @@
 nepal
 srilnaka
+usa
+france
