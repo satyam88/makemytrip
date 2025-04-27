@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class visa {
     @GetMapping("/visa")
 
-    public String getData( return  "Please book evisa via vfs global in 30days from Dev A" ; }
+    public String getData() { return  "Please book evisa via vfs global in 40days from Dev A" ; }
 
 }
