@@ -11,6 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>makemytrip</artifactId>
 	<version>v1.1</version>
+	<packaging>war</packaging>
 	<name>makemytrip</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
